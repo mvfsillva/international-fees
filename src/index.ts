@@ -3,14 +3,14 @@ import c from './ca'
 import u from './usa'
 
 interface Countries {
-  ca: object|any
-  usa: object|any
+  ca: object
+  usa: object
 }
 
 interface Params {
-  countryName: string
-  shortName: string
-  total: number
+  countryName?: string
+  shortName?: string
+  total?: number
   provinceRate?: number
   countryRate?: number
   tax?: number
