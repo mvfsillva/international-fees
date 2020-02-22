@@ -1,7 +1,7 @@
 {
   "name": "international-fees",
   "version": "0.0.0",
-  "description": "A library to make easier the calc in international fees",
+  "description": "A library with international taxes mapped",
   "repository": "git@github.com:mvfsillva/international-fees.git",
   "author": "Marcus Silva <mvfsillva@gmail.com>",
   "license": "MIT",
@@ -28,8 +28,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc",
-    "prepublish": "yarn build",
+    "clean": "rimraf dist",
+    "build": "yarn clean && tsc",
     "lint": "xo --quiet",
     "precommit": "lint-staged",
     "test": "jest",
@@ -43,6 +43,7 @@
     "jest": "^25.1.0",
     "lint-staged": "10.0.7",
     "prettier": "1.19.1",
+    "rimraf": "^3.0.2",
     "ts-jest": "^25.2.1",
     "typescript": "^3.8.2",
     "xo": "0.26.1"
