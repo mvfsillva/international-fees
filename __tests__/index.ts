@@ -1,4 +1,4 @@
-import fees from '../src'
+const fees = require('../src').default
 
 describe('should be return Canadian provinces', () => {
   test('should be return country name', () => {
