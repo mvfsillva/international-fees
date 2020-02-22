@@ -1,6 +1,6 @@
 {
   "name": "international-fees",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library with international taxes mapped",
   "repository": "git@github.com:mvfsillva/international-fees.git",
   "author": "Marcus Silva <mvfsillva@gmail.com>",
