@@ -17,17 +17,16 @@ import fees from 'international-fees'
 // List all provinces
  console.log(fees.ca)
 ```
-<p align="center">
-  <img width="400" height="auto" src=".github/ca-list.png"/>
-</p>
+![Canada provinces list](.github/ca-list.png)
 
 ```js
+import fees from 'international-fees'
+
 // List all states
  console.log(fees.usa)
 ```
-<p align="center">
-  <img width="400" height="auto" src=".github/usa-list.png"/>
-</p>
+![The USA states list](.github/usa-list.png)
+
 
 ```js
 fees.ca['Ontario'].provinceRate // 8
