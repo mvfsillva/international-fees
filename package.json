@@ -7,12 +7,12 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mvfsillvainternational-fees.git"
+    "url": "git+https://github.com/mvfsillva/international-fees.git"
   },
   "bugs": {
-    "url": "https://github.com/mvfsillvainternational-fees/issues"
+    "url": "https://github.com/mvfsillva/international-fees/issues"
   },
-  "homepage": "https://github.com/mvfsillvainternational-fees#readme",
+  "homepage": "https://github.com/mvfsillva/international-fees#readme",
   "keywords": [
     "fee",
     "fees",
