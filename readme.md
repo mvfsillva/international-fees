@@ -1,5 +1,8 @@
 # International fees
 
+## Why?
+Each country has its own way of collecting taxes and, sometimes, they are also divided by the state, as in the case of Canada, each province has its tax rate added to the tax charged by the country. This library maps all of these fees to make your life easier.
+
 ## Installation
 
 ```shell

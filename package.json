@@ -1,11 +1,18 @@
 {
   "name": "international-fees",
   "version": "1.0.1",
-  "description": "A library with international taxes mapped",
-  "repository": "git@github.com:mvfsillva/international-fees.git",
+  "description": "A library to make easier mapper international taxes",
   "author": "Marcus Silva <mvfsillva@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvfsillvainternational-fees.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mvfsillvainternational-fees/issues"
+  },
+  "homepage": "https://github.com/mvfsillvainternational-fees#readme",
   "keywords": [
     "fee",
     "fees",
