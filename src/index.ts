@@ -1,35 +1,27 @@
 // fees
-import c from './ca'
-import u from './usa'
+import canada from './ca'
+import unitedStates from './usa'
 
-interface Countries {
-  ca: object
-  usa: object
+interface Fees {
+  shortName: string
+  countryName: string
+  total: number
 }
 
-interface Params {
-  countryName?: string
-  shortName?: string
-  total?: number
-  provinceRate?: number
-  countryRate?: number
-  tax?: number
-}
-
-const ca: Params = {
-  ...c,
-  total: Object.keys(c).length,
+const ca: Fees = {
+  ...canada,
+  total: Object.keys(canada).length,
   countryName: 'Canada',
   shortName: 'CA'
 }
 
-const usa: Params = {
-  ...u,
-  total: Object.keys(u).length,
+const usa: Fees = {
+  ...unitedStates,
+  total: Object.keys(unitedStates).length,
   countryName: 'United States',
   shortName: 'USA'
 }
 
-const fees: Countries = { ca, usa }
+const fees = { ca, usa }
 
 export default fees
