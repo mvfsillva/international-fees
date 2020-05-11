@@ -1,6 +1,6 @@
 {
   "name": "international-fees",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A library to make easier mapper international taxes",
   "author": "Marcus Silva <mvfsillva@gmail.com>",
   "license": "MIT",
