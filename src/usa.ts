@@ -1,4 +1,6 @@
-const usa: object = {
+import { UsaStates, InfoFee } from './types'
+
+const usa: Record<UsaStates, InfoFee> = {
 'Alabama': {
     tax: 10,
   },

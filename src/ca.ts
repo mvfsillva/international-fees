@@ -1,4 +1,6 @@
-const can: object = {
+import { CaProvinces, InfoFee } from './types'
+
+const CA: Record<CaProvinces, InfoFee> = {
   'Alberta': {
     provinceRate: 0,
     countryRate: 5,
@@ -66,4 +68,4 @@ const can: object = {
   },
 }
 
-export default can
+export default CA
