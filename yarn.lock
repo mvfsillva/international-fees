@@ -618,10 +618,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@sindresorhus/tsconfig@0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-0.7.0.tgz#8388e864b5e6d72547175ed98152b736df39b20a"
-  integrity sha512-on7+0FFpUH7+g5iLFkmk0oruqzE6uUnpKK0D6HM637aIvQ/mlXz33VlamsS4TSU6pifWSNIrUxrNKjAReU2Juw==
+"@sindresorhus/tsconfig@0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-0.8.0.tgz#2ed27ed50f6b717d245b9d919fd045be027f17f2"
+  integrity sha512-BrNMQ7nMoy4x/0ZUeGoqyTQhTyYdvixEl09FSc/r3rF4vDPJ7kjIkrOVksSd19u/lr3MgYWkKfJ5BgLK6pPLuw==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.1"
