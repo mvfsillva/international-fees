@@ -6785,10 +6785,10 @@ xmlchars@^2.2.0:
   resolved "https://registry.yarnpkg.com/xmlchars/-/xmlchars-2.2.0.tgz#060fe1bcb7f9c76fe2a17db86a9bc3ab894210cb"
   integrity sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==
 
-xo@0.36.0:
-  version "0.36.0"
-  resolved "https://registry.yarnpkg.com/xo/-/xo-0.36.0.tgz#8e4df27f51b3c7a4bf642f48f96c7d1849d71fdf"
-  integrity sha512-yvFwfv06DQBizcloQ007hIrFyI1lMnV8yQ12KQ7dWWFkO+Jzm53bP8k5FieUj3BtZpyiMogcHBkSeulGxnBuHg==
+xo@0.36.1:
+  version "0.36.1"
+  resolved "https://registry.yarnpkg.com/xo/-/xo-0.36.1.tgz#fe2ff6069c9c4f8e34472d91ae123da34b4cdc86"
+  integrity sha512-Y4ZlBipRa9BYZDzGUV8PbCVgdP0qD5HfbM2x6Ilp8NKkdQMQXD2OyeJL0hyeAyXe+9X25VZSfeHBmSDi/DHXFA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.9.1"
     "@typescript-eslint/parser" "^4.9.1"
