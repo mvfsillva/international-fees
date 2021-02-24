@@ -731,10 +731,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@sindresorhus/tsconfig@0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-0.8.0.tgz#2ed27ed50f6b717d245b9d919fd045be027f17f2"
-  integrity sha512-BrNMQ7nMoy4x/0ZUeGoqyTQhTyYdvixEl09FSc/r3rF4vDPJ7kjIkrOVksSd19u/lr3MgYWkKfJ5BgLK6pPLuw==
+"@sindresorhus/tsconfig@0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-0.9.0.tgz#4563a1d92f3a10f8aa9ed8046028357dcd30148a"
+  integrity sha512-g0qxuOSLPHnvE0lM0FTPYocB+MoQtZrOlX2z08vBIQFPu96N3gPyyanGox0AdtEm+kcwc9g2il3LdqcRacuBfQ==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.1"
