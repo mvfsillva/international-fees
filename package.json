@@ -43,7 +43,7 @@
     "test:watch": "jest --watch"
   },
   "devDependencies": {
-    "@sindresorhus/tsconfig": "1.0.1",
+    "@sindresorhus/tsconfig": "1.0.2",
     "@types/jest": "26.0.22",
     "@types/node": "13.13.48",
     "husky": "6.0.0",
