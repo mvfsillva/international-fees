@@ -872,10 +872,10 @@
     "@nodelib/fs.scandir" "2.1.3"
     fastq "^1.6.0"
 
-"@sindresorhus/tsconfig@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-1.0.2.tgz#f2c78c9e0de3293a775debd24b022ea480f18800"
-  integrity sha512-6N3TkxwK6XuRCH/IRQXvp4PwTrRxktE4NpmeFczA283W6rJjcorJKNbjSmgCNVKkofNoawPF9OmCqDVzDv5UPg==
+"@sindresorhus/tsconfig@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-2.0.0.tgz#610e1cb8ed4e1cb7ff0cb4cb8712cd607315c152"
+  integrity sha512-1nsyWtFtPpVjEnNzp2rd03BVz84BYHeW7LNYvmcj3q4jAgJL2hl0XBp3WmDFFPjFLF3w+L0XEYqhjWUTU+TCzw==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.1"
