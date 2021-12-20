@@ -45,7 +45,7 @@
   "devDependencies": {
     "@sindresorhus/tsconfig": "2.0.0",
     "@types/jest": "27.0.3",
-    "@types/node": "16.11.14",
+    "@types/node": "16.11.15",
     "husky": "7.0.4",
     "jest": "27.4.5",
     "lint-staged": "12.1.3",
