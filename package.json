@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@sindresorhus/tsconfig": "2.0.0",
-    "@types/jest": "27.4.0",
+    "@types/jest": "27.4.1",
     "@types/node": "16.11.25",
     "husky": "7.0.4",
     "jest": "27.5.1",
