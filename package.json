@@ -47,7 +47,7 @@
     "@types/jest": "27.5.0",
     "@types/node": "16.11.33",
     "husky": "7.0.4",
-    "jest": "28.0.3",
+    "jest": "28.1.0",
     "lint-staged": "12.4.1",
     "prettier": "2.6.2",
     "rimraf": "3.0.2",
