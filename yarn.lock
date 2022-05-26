@@ -884,10 +884,10 @@
   resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.23.4.tgz#6ff93fd2585ce44f7481c9ff6af610fbb5de98a4"
   integrity sha512-0/WqSvpVbCBAV1yPeko7eAczKbs78dNVAaX14quVlwOb2wxfKuXCx91h4NrEfkYK9zEnyVSW4JVI/trP3iS+Qg==
 
-"@sindresorhus/tsconfig@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-2.0.0.tgz#610e1cb8ed4e1cb7ff0cb4cb8712cd607315c152"
-  integrity sha512-1nsyWtFtPpVjEnNzp2rd03BVz84BYHeW7LNYvmcj3q4jAgJL2hl0XBp3WmDFFPjFLF3w+L0XEYqhjWUTU+TCzw==
+"@sindresorhus/tsconfig@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-3.0.0.tgz#5e41ed3ca8e20f57a071131a3a1ef6ff6916d076"
+  integrity sha512-sXwNYvmvVND85UbnUEv7U0c4IjkVkY9o5HElCT5CDx7wKvYFzpc9w+UVG/c6C7i1RNDH/MYF3k1QWwkk9O823w==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.1"
